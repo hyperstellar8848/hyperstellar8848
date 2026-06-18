@@ -4,7 +4,7 @@
 #### ★ˎˊ˗ minds simulating minds (*cognition and AI*)
 #### ⋆⋆⋆ turning thoughts into reality (*engineering*<3)
 #### ✶⋆.° stepping into worlds built from computation (XR & spatial computing)
-#### ༄  ⚡︎ rain, wind, lightning, and soil; which reassure me that Earth is home indeed
+#### ༄  ⚡︎ rain, wind, lightning, and soil; which reassure me that Planet E is home indeed
 #### ✩₊⊹ technology as a path toward X, where *individualism* becomes the foundation; a reality built on justice, truth, and *authentic* self-expression for every human. (my "tch4x" philosophy)
   &nbsp;&nbsp;&nbsp;&nbsp;
 
