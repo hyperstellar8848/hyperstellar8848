@@ -10,35 +10,35 @@
 
   <p align="center">
     <d align="center">
-  <img src="mystar.gif" width="30">
+  <img src="1.gif" width="30">
 </d>
   &nbsp;&nbsp;&nbsp;&nbsp;
     <d align="center">
-  <img src="mystar.gif" width="30">
+  <img src="2.gif" width="30">
 </d>
     &nbsp;&nbsp;&nbsp;&nbsp;
       <d align="center">
-  <img src="mystar.gif" width="30">
+  <img src="3.gif" width="30">
 </d>
   &nbsp;&nbsp;&nbsp;&nbsp;
     <d align="center">
-  <img src="mystar.gif" width="30">
+  <img src="4.gif" width="30">
 </d>
     &nbsp;&nbsp;&nbsp;&nbsp;
       <d align="center">
-  <img src="mystar.gif" width="30">
+  <img src="5.gif" width="30">
 </d>
   &nbsp;&nbsp;&nbsp;&nbsp;
     <d align="center">
-  <img src="mystar.gif" width="30">
+  <img src="6.gif" width="30">
 </d>
     &nbsp;&nbsp;&nbsp;&nbsp;
       <d align="center">
-  <img src="mystar.gif" width="30">
+  <img src="7.gif" width="30">
 </d>
   &nbsp;&nbsp;&nbsp;&nbsp;
     <d align="center">
-  <img src="mystar.gif" width="30">
+  <img src="8.gif" width="30">
 </d>
     &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
