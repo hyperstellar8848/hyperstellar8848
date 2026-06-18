@@ -9,13 +9,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   
 <p align="center">
-    &nbsp;&nbsp;&nbsp;&nbsp;
   <d align="center">
   <img src="mystar.gif" width="30">
 </d>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyperstellar8848&theme=jolly&hide_border=true" height="165" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <d align="center">
   <img src="mystar.gif" width="30">
 </d>
