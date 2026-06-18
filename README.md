@@ -1,16 +1,30 @@
-## Hi there 👋
+### Hi, this is Parmida ★彡
+### and I'm interested in:
 
-<!--
-**hyperstellar8848/hyperstellar8848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ★ˎˊ˗ minds simulating minds (*cognition and AI*)
+#### ⋆⋆⋆ turning thoughts into reality (*engineering*<3)
+#### ✶⋆.° stepping into worlds built from computation (XR & spatial computing)
+#### ༄  ⚡︎ rain, wind, lightning, and soil; which reassure me that Earth is home indeed
+#### ✩₊⊹ technology as a path toward X, where *individualism* becomes the foundation; a reality built on justice, truth, and *authentic* self-expression for every human. (my "tch4x" philosophy)
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+<p align="center">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <d align="center">
+  <img src="mystar.gif" width="30">
+</d>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyperstellar8848&theme=jolly&hide_border=true" height="165" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <d align="center">
+  <img src="mystar.gif" width="30">
+</d>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperstellar8848&theme=jolly&show_icons=true&hide_border=true&layout=compact" height="165" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <d align="center">
+  <img src="mystar.gif" width="30">
+</d>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
