@@ -7,17 +7,46 @@
 #### ༄  ⚡︎ rain, wind, lightning, and soil; which reassure me that Earth is home indeed
 #### ✩₊⊹ technology as a path toward X, where *individualism* becomes the foundation; a reality built on justice, truth, and *authentic* self-expression for every human. (my "tch4x" philosophy)
   &nbsp;&nbsp;&nbsp;&nbsp;
-  
-<p align="center">
-  <d align="center">
+
+  <p align="center">
+    <d align="center">
   <img src="mystar.gif" width="30">
 </d>
-      &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+    <d align="center">
+  <img src="mystar.gif" width="30">
+</d>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+      <d align="center">
+  <img src="mystar.gif" width="30">
+</d>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+    <d align="center">
+  <img src="mystar.gif" width="30">
+</d>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+      <d align="center">
+  <img src="mystar.gif" width="30">
+</d>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+    <d align="center">
+  <img src="mystar.gif" width="30">
+</d>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+      <d align="center">
+  <img src="mystar.gif" width="30">
+</d>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+    <d align="center">
+  <img src="mystar.gif" width="30">
+</d>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyperstellar8848&theme=jolly&hide_border=true" height="165" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperstellar8848&theme=jolly&show_icons=true&hide_border=true&layout=compact" height="165" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <d align="center">
-  <img src="mystar.gif" width="30">
-</d>
 </p>
